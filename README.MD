@@ -26,6 +26,9 @@ To deploy this project run
     streamlit run app.py
 ```
 
+### Trained Weights
+The trained weights can be found in [releases](https://github.com/undisputedcoder/Weed-Detector/releases)
+
 ## References
 - [AI & the future of Agriculture](https://www.youtube.com/watch?v=oot55bK62pk)
 - [Crop and weed detection data with bouding boxes dataset](https://www.kaggle.com/datasets/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes)
